@@ -20,3 +20,7 @@ The game was done for the Creative Code Lab of the fourth term in the bachelor s
 ## Download
 
 You can download the game from the [releases section](https://github.com/Averigines/CCL4_Astroboy/releases).
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
